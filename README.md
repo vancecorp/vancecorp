@@ -1,0 +1,8 @@
+- 👋 hi, im vance
+- ❣️ im interested in reverse engineering, embedded development, and general hacking
+- 📚 im currently learning rust and zig
+- 🔥 im looking to collaborate with antistatists and anarchists
+- 📫 how to reach me: [vance.land](https://vance.land)
+- 🤖 pronouns: he/they
+- ⚡ fun fact: this account is just for mirroring [code.vance.land](https://code.vance.land)
+- 🖕 github: microsoft was the worst thing to happen to open source
